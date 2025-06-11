@@ -22,17 +22,32 @@ python main.py
 ## 🏗️ Project Structure
 
 ├── main.py # Entry point for the CLI app
+
 ├── controllers/
+
 │ └── LibraryController.py # Manages operations and file persistence
+
 ├── models/
+
 │ ├── base/ # Abstract base classes and interfaces
+
 │ ├── Book.py
+
 │ ├── DVD.py
+
 │ ├── Magazine.py
+
 │ ├── User.py
+
 │ └── Library.py
+
 ├── exceptions.py # Custom exception classes
+
 ├── data/
-│ ├── users.json # User data (loaded and saved at runtime)
+
+│ ├── users.json # User data (loaded and saved
+at runtime)
+
 │ └── items.json # Library items data
+
 └── README.md
