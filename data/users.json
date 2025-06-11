@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": 0,
+    "name": "Mo",
+    "email": "mo@gmail.com",
+    "borrowed_items_ids": []
+  },
+  {
+    "user_id": 1,
+    "name": "moha",
+    "email": "moha",
+    "borrowed_items_ids": [
+      2
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "ahed",
+    "email": "ahed",
+    "borrowed_items_ids": []
+  }
+]

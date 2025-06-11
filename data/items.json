@@ -1,0 +1,60 @@
+[
+  {
+    "type": "Book",
+    "item_id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 120,
+    "available": true,
+    "borrowed_by": null,
+    "reserved_by": null
+  },
+  {
+    "type": "Book",
+    "item_id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 150,
+    "available": false,
+    "borrowed_by": 1,
+    "reserved_by": null
+  },
+  {
+    "type": "DVD",
+    "item_id": 3,
+    "title": "Inception",
+    "author": "Christopher Nolan",
+    "duration": 148,
+    "available": false,
+    "borrowed_by": null,
+    "reserved_by": 1
+  },
+  {
+    "type": "DVD",
+    "item_id": 4,
+    "title": "The Matrix",
+    "author": "Lana Wachowski & Lilly Wachowski",
+    "duration": 136,
+    "available": true,
+    "borrowed_by": null,
+    "reserved_by": null
+  },
+  {
+    "type": "Magazine",
+    "item_id": 5,
+    "title": "National Geographic - March 2023",
+    "author": "National Geographic Partners",
+    "issue_number": "March 2023",
+    "available": true,
+    "borrowed_by": null
+  },
+  {
+    "type": "Magazine",
+    "item_id": 6,
+    "title": "TIME - April 2023",
+    "author": "TIME USA, LLC",
+    "issue_number": "April 2023",
+    "available": true,
+    "borrowed_by": null
+  }
+]
